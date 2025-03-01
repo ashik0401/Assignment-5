@@ -6,6 +6,9 @@ document.addEventListener("DOMContentLoaded", function () {
         "#D5F4F0",
         "#FFF0D6",
         "#D6DFFF",
+        "#A0937D",
+        "#B5C18E",
+        "#DCBFFF",
 
     ];
 

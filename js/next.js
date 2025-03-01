@@ -5,7 +5,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     document.getElementById('next-tab').addEventListener
         ('click', function () {
-            window.location.href = "../main.html";
+            window.location.href = "main.html";
         });
 });
 
