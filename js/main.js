@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 'bg-[#F4F7FF]',
                 'm-5',
                 'p-3',
-                
+
                 'rounded-2xl'
             );
 
