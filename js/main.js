@@ -51,8 +51,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
             newHistoryItem.classList.add(
                 'bg-[#F4F7FF]',
-                'mb-6',
-                'p-5',
+                'mb-5',
+                'p-3',
+                
                 'rounded-2xl'
             );
 
