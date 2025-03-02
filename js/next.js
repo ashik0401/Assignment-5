@@ -1,7 +1,4 @@
 
-
-
-
 document.addEventListener("DOMContentLoaded", function () {
     document.getElementById('next-tab').addEventListener
         ('click', function () {
